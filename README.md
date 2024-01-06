@@ -1,2 +1,1 @@
-# Victor.github.io
-Example of data analytics portfolio
+Data Analytics Portfolio
