@@ -51,7 +51,7 @@ a trainee technician.
 
 ### Agile Six Sigma Project:
 Improved Daily Case Completion of the Agency Implementation Team:
-https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH
+(https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
 
 ### Certifications
 Agile Six Sigma Yellow Belt -Reed Elsevier
