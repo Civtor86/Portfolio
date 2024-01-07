@@ -19,18 +19,18 @@
 * The DVD Rental Dataset is taken from the following website: https://downloads.mysql.com/docs/sakila-db.zip.
 
 1. Using the DVD rental dataset, provide the SQL code and the output for this query criterion
-    A.  Using the DVD rental dataset, provide the SQL code and the output for this query criterion. 
+    * A.  Using the DVD rental dataset, provide the SQL code and the output for this query criterion. 
         a Provide an Excel sheet report of the total sum of payments made by each customer in the payments table. Present it in ascending order. 
         There should be four columns: customer_id, first_name, last_name`,   and sum.
 
-    B. Provide the SQL syntax and output of customer IDs having an average payment amount of less than 3.
+    * B. Provide the SQL syntax and output of customer IDs having an average payment amount of less than 3.
    
 2. Why would the following SQL syntaxes fail?
-  A. SELECT first_name, last_name, district FROM customer INNER JOIN address ON address_id = address_id.
-  B. SELECT customer_id, SUM(amount3 FROM payment GROUP BY customer_id HAVING amount > 100
+    * A. SELECT first_name, last_name, district FROM customer INNER JOIN address ON address_id = address_id.
+    * B. SELECT customer_id, SUM(amount3 FROM payment GROUP BY customer_id HAVING amount > 100
 
 3. Answer the following business scenario questions. Provide the SQL code and the output.
-   A.   One of the criteria for a customer to become part of the customer loyalty program is that they need to have an accumulated payment made to the DVD rental store of at least $200           or more. As a data analyst, you need to provide a list of customer IDs with a total accumulated payment of at least $200 or more.
+    * A.   One of the criteria for a customer to become part of the customer loyalty program is that they need to have an accumulated payment made to the DVD rental store of at least                $200 or more. As a data analyst, you need to provide a list of customer IDs with a total accumulated payment of at least $200 or more.
 
 # [Agile Six Sigma Project: Improved Daily Case Completion of the Agency Implementation Team](https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
 
