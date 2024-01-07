@@ -1,8 +1,8 @@
 # Data Analytics Portfolio
 
-# [Project 1: Launching Airbnb Sydney] (https://github.com/Civtor86/Data-Analytics-Portfolio/blob/main/Copy_of_Victor_B_Sanchez_Week_1_Project_SQLCC.ipynb)
+# [Project 1: Launching Airbnb Sydney] (https://github.com/Civtor86/SQL_Basic_Data_Querying)
 
-* I will act as as the General manager for the Sydney area at Airbnb, I want to know more about the different listings of houses your team has onboarded. 
+* Act as as the General manager for the Sydney area at Airbnb, I want to know more about the different listings of houses your team has onboarded. 
 * I have access to information regarding the listings, neighbourhoods, reviews, and calendar. Each of these have their own separate table.
 * The data was taken from the following website: https://github.com/sb2nov/sql-cc.git
 
