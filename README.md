@@ -13,7 +13,7 @@
 * Each of these have their own separate table, and follow the structure as shown in the week 1 project:
 * The data was taken from the following website: https://github.com/sb2nov/sql-cc.git
 
-# [Agile Six Sigma Project: Improved Daily Case Completion of the Agency Implementation Team]((https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
+# [Agile Six Sigma Project: Improved Daily Case Completion of the Agency Implementation Team](https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
 
 * Problem Statement: 
 * From January 3, 2022 to April 11, 2022, the average daily completed cases of the Agency Implementation Team is at 27 cases versus the target of 30. The operational delays resulted to backlogs and escalations.
