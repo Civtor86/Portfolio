@@ -34,4 +34,4 @@
 5. Final Result
 * Through these implementations:
 * Meet the target of 30 cases during the execute and validate phase
-* OT and Process efficiency savings of $1,271.48
+* Overtime and process efficiency savings of $1,271.48
