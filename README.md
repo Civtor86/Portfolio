@@ -51,7 +51,10 @@
 5. Excluding the significant outlier, provide insights on the company regarding the usual financing sources for businesses that offer financial services. Export your data from SQL to MS Excel, and create a data visualization that presents the average funds acquired from financing sources such as equity crowd-sourcing, undisclosed sources, convertible notes, debt financing,   and private equity.
 
 # [Project 5: Foods & Beverages Sales Analysis using Power BI](https://drive.google.com/drive/u/1/folders/1qILCrjo8RHJsNSfbXXpt1WERwN3awxT8)
+
 # [Project 6: Analysis of Sales Summary of Adventure Work Store using Power BI](https://drive.google.com/drive/u/1/folders/1_yra1YgHAy1vst9Ox6GCCOl9tnUXNh7o)
+
+# [Project 7: Project Sparta - Data Associate Western Samar Dashboard](https://drive.google.com/drive/u/1/folders/1JfPHRHqZpvZMp7r9PVGkB-c3L0jCkiD8)
 
 # [Agile Six Sigma Project: Improved Daily Case Completion of the Agency Implementation Team](https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
 
