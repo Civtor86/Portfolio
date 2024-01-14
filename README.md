@@ -56,25 +56,6 @@
 
 # [Project 7: Project Sparta - Data Associate Western Samar Dashboard](https://drive.google.com/drive/u/1/folders/1JfPHRHqZpvZMp7r9PVGkB-c3L0jCkiD8)
 
+# [Project 8: Capstone for Google Data Analytics Certificate](https://github.com/Civtor86/Capstone-for-Google-Data-Analytics-Certificate/blob/9d96db88c0eed8f0734bcb198145061fff3412c9/Google.Data.Analytics.using.Amazon.Top.50.Bestselling.Books.2009.-.2019.Project%20(2).pdf)
+
 # [Agile Six Sigma Project: Improved Daily Case Completion of the Agency Implementation Team](https://drive.google.com/drive/u/0/folders/1KEqfmpidvvNqqt_SfzbmBxptIdlQ5NVH)
-
-1. Problem Statement: 
-* From January 3, 2022 to April 11, 2022, the average daily completed cases of the Agency Implementation Team is at 27 cases versus the target of 30. The operational delays resulted to backlogs and escalations.
-
-2. Project Objective:
-* To improve productivity per day with the new process tools from 27 to 30 cases by June 2022.
-  
-3. Implemented Improvement: 
-* Training/calibration at least once a week or whenever needed to familiarize the tools and other process updates.
-* Transfer all reference materials from shared drive to Sharepoint for faster access
-* Created macro –enabled activity tracker to monitor non-productive hours and identify which ones can be removed or reduced
-
-4. Root Causes: 
-* Familiarity to the new tool affecting the processing time
-* Additional time spent in accessing the training materials in shared drive
-* Management of productive and non-productive hours
-
-5. Final Result
-* Through these implementations:
-* Meet the target of 30 cases during the execute and validate phase
-* Overtime and process efficiency savings of $1,271.48
